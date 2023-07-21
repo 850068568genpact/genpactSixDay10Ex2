@@ -1,0 +1,9 @@
+C:\DotnetTraining\Day10\ExerciseTwoDayTen\ExerciseTwoDayTen\bin\Debug\ExerciseTwoDayTen.dll
+C:\DotnetTraining\Day10\ExerciseTwoDayTen\ExerciseTwoDayTen\bin\Debug\ExerciseTwoDayTen.pdb
+C:\DotnetTraining\Day10\ExerciseTwoDayTen\ExerciseTwoDayTen\bin\Debug\nunit.framework.dll
+C:\DotnetTraining\Day10\ExerciseTwoDayTen\ExerciseTwoDayTen\bin\Debug\nunit.framework.xml
+C:\DotnetTraining\Day10\ExerciseTwoDayTen\ExerciseTwoDayTen\obj\Debug\ExerciseTwoDayTen.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day10\ExerciseTwoDayTen\ExerciseTwoDayTen\obj\Debug\ExerciseTwoDayTen.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day10\ExerciseTwoDayTen\ExerciseTwoDayTen\obj\Debug\ExerciseTwoDayTen.csproj.CopyComplete
+C:\DotnetTraining\Day10\ExerciseTwoDayTen\ExerciseTwoDayTen\obj\Debug\ExerciseTwoDayTen.dll
+C:\DotnetTraining\Day10\ExerciseTwoDayTen\ExerciseTwoDayTen\obj\Debug\ExerciseTwoDayTen.pdb
